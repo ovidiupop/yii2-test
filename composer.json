@@ -10,6 +10,12 @@
             "email": "matricks@webspider.ro"
         }
     ],
+    "repositories":[
+        {
+            "type":"git",
+            "url":"https://github.com/ovidiupop/yii2-test"
+        }
+        ],
     "require": {
         "yiisoft/yii2": "*",
         "yiisoft/yii2-bootstrap": "*"
