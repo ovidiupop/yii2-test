@@ -1,10 +1,9 @@
-<?php
+namespace ovidiupop\test;
 
-namespace matricks\test;
 use Yii;
+use yii\bootstrap\Widget;
 
-
-class Show extends yii\base\Widget{
+class Show extends Widget{
     
     public function run(){
         echo "yes";
