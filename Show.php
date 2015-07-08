@@ -1,3 +1,4 @@
+<?php
 namespace ovidiupop\test;
 
 use Yii;
